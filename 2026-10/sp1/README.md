@@ -1,2 +1,2 @@
 # SP1 Kroužky
-Kód žáka: IT2-xx
+Kód žáka: IT2-24
